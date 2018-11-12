@@ -21,7 +21,7 @@
 >La clase ShapeMaker usa las clases concretas para delegar las llamadas de los usuarios a estas clases. FacadePattern, nuestra clase de demostración, usará la clase ShapeMaker para mostrar los resultados.
 
 ## 7. Sitios web  consultados
->[Patrón Facade](http://patronesdediseno.blogspot.com/2009/05/patronfacade.html)
+>[Patrón Facade](https://github.com/LuisBurgos/design-patterns#facade)
 
 >[Facade Pattern](http://jargon.js.org/_glossary/FACADE_PATTERN.md)
 
