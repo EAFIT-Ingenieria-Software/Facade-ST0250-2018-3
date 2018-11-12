@@ -1,3 +1,9 @@
+/*
+Se crea la clase Facade ShapeMaker que contiene los 
+métodos que luego serán usados por la clase 
+principal FacadePattern
+*/
+
 public class ShapeMaker {
    private Shape circle;
    private Shape rectangle;
