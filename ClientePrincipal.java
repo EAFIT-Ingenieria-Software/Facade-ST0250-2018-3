@@ -1,4 +1,13 @@
+/*
+La clase cliente se encarga de invocar a la impresora, 
+y configurarla para después imprimir varios documentos.
+Ahora bien, prácticamente todos los documentos que 
+escribimos tienen la misma estructura (formato A4, Color , PDF). 
 
+Estamos continuamente repitiendo código. Vamos a construir una nueva clase 
+FacadeImpresoraNormal que simplifique la impresión de documentos que sean 
+los más habituales.
+*/
 
 public class ClientePrincipal {
 
